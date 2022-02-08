@@ -22,7 +22,6 @@ body {
   text-align: center;
   transition: opacity 0.3s;
 }
-div{max-width:600px;width:auto;margin:3em auto;padding:1.5em;background-color:rgb(44, 44, 65);border-radius:.5em}
 
 h1,
 h2,
