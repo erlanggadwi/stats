@@ -8,8 +8,11 @@ html {
   flex-direction: column;
 }
 body {
-  background-color: #f5f6f8;
-  color: #3b3b3b;
+background-color: rgb(48, 48, 75);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            color: #3b3b3b;
   font-size: 14px;
   font-weight: 300;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
@@ -21,6 +24,8 @@ body {
   text-align: center;
   transition: opacity 0.3s;
 }
+div{max-width:600px;width:auto;margin:3em auto;padding:1.5em;background-color:rgb(44, 44, 65);border-radius:.5em}
+
 h1,
 h2,
 h3,
